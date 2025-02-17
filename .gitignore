@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Cache files
+.cache/
+.pytest_cache/
+
+# Logs and temporary files
+logs/
+*.log
