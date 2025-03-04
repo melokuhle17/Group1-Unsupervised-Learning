@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/bonas/Downloads/ExploreAI%20WORK/Python%20practice/Unsupervised%20learning/Group1-Unsupervised-Learning/Group1-Unsupervised-Learning/mlruns/977804650605750396/4a21fd7ec3fe475794a80e9920d940a1/artifacts
+end_time: 1741107888489
+entry_point_name: ''
+experiment_id: '977804650605750396'
+lifecycle_stage: active
+run_id: 4a21fd7ec3fe475794a80e9920d940a1
+run_name: SVD_Model
+run_uuid: 4a21fd7ec3fe475794a80e9920d940a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741107888282
+status: 3
+tags: []
+user_id: bonas

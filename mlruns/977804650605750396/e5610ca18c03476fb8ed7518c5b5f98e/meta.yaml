@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/bonas/Downloads/ExploreAI%20WORK/Python%20practice/Unsupervised%20learning/Group1-Unsupervised-Learning/Group1-Unsupervised-Learning/mlruns/977804650605750396/e5610ca18c03476fb8ed7518c5b5f98e/artifacts
+end_time: 1741106084785
+entry_point_name: ''
+experiment_id: '977804650605750396'
+lifecycle_stage: active
+run_id: e5610ca18c03476fb8ed7518c5b5f98e
+run_name: CoClustering_Model
+run_uuid: e5610ca18c03476fb8ed7518c5b5f98e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741106084551
+status: 3
+tags: []
+user_id: bonas
