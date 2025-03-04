@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/bonas/Downloads/ExploreAI%20WORK/Python%20practice/Unsupervised%20learning/Group1-Unsupervised-Learning/Group1-Unsupervised-Learning/mlruns/977804650605750396/bcba39b266a8442fbdd5ad56e3fba2b3/artifacts
+end_time: 1741108573391
+entry_point_name: ''
+experiment_id: '977804650605750396'
+lifecycle_stage: active
+run_id: bcba39b266a8442fbdd5ad56e3fba2b3
+run_name: KNNBaseline_Model
+run_uuid: bcba39b266a8442fbdd5ad56e3fba2b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741108573281
+status: 3
+tags: []
+user_id: bonas
